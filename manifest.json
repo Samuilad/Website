@@ -1,0 +1,8 @@
+{//required 
+  "name": "hackathon",
+  "version": "1.0",
+  
+  "manifest_version": 2
+"description": "to understand how chrome extensions work",
+"icons":{
+}
